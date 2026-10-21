@@ -5,9 +5,9 @@
 - [project_specs.md](in this project folder root)- defines what we are building
 
 ## How the agent works
-- read the instructions provided by task files in the workflow folder (what we want to happen in `split in tasks like task_1.md, task_2.md...)
+- read the instructions provided by task files in the workflow folder (what we want to happen is `split in tasks like task_1.md, task_2.md...)
 - create python scripts actions (python scripts in `scripts/`) one action for each task: task_1.py, task_2.py...
-
+    
 ## File structure 
 - `resources/` - where resources are stored
 - `workflows/` - where instructions are stored in .md files
